@@ -1,0 +1,1538 @@
+[
+  {
+    "id": 1,
+    "type": "Racing",
+    "pairId": "P1",
+    "text": "You are P2 with three laps remaining. A narrow overtaking gap appears. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Commit immediately before the gap disappears.",
+        "scores": {
+          "attack": 3,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 1,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Apply pressure and wait for a cleaner opportunity.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Protect the points unless the move becomes clearly safe.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 0,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": -1
+        }
+      },
+      {
+        "id": "D",
+        "text": "Try an unusual line to force the leader into an error.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 1,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Everyday",
+    "pairId": "P1",
+    "text": "You are offered an exciting role with more responsibility but uncertain prospects. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accept quickly. Growth requires taking chances.",
+        "scores": {
+          "attack": 2,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 2,
+          "sociability": 1,
+          "adaptability": 2,
+          "independence": 2,
+          "experimentation": 1
+        }
+      },
+      {
+        "id": "B",
+        "text": "Evaluate the risks, rewards, and fallback options first.",
+        "scores": {
+          "attack": -1,
+          "composure": 1,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Stay where I am unless the new role is clearly more secure.",
+        "scores": {
+          "attack": -2,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": -1,
+          "sociability": 0,
+          "adaptability": -1,
+          "independence": 0,
+          "experimentation": -1
+        }
+      },
+      {
+        "id": "D",
+        "text": "Propose a trial period or design a different arrangement.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 2,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 2,
+          "independence": 2,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Pressure",
+    "pairId": "P2",
+    "text": "You make a visible mistake during an important presentation. What happens next?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acknowledge it briefly and continue without losing rhythm.",
+        "scores": {
+          "attack": 0,
+          "composure": 3,
+          "strategy": 1,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 1,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Correct it carefully and explain how the conclusion changes.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 0,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "It bothers me, but I use the frustration to sharpen my focus.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Turn it into a light moment and adapt the presentation.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 0,
+          "competitiveDrive": 0,
+          "sociability": 3,
+          "adaptability": 3,
+          "independence": 0,
+          "experimentation": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "Racing",
+    "pairId": "P2",
+    "text": "You make a small error in qualifying and have one final lap. How do you respond?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reset completely and repeat the proven approach.",
+        "scores": {
+          "attack": 0,
+          "composure": 3,
+          "strategy": 2,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": -1
+        }
+      },
+      {
+        "id": "B",
+        "text": "Review exactly where the time was lost before pushing again.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Push even harder to recover everything at once.",
+        "scores": {
+          "attack": 3,
+          "composure": -1,
+          "strategy": 0,
+          "competitiveDrive": 3,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Change the preparation or line to create a different outcome.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 1,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Racing",
+    "pairId": "P3",
+    "text": "Rain begins, but it is unclear whether intermediate tyres are faster. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pit early and try to gain the advantage first.",
+        "scores": {
+          "attack": 2,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 2,
+          "experimentation": 1
+        }
+      },
+      {
+        "id": "B",
+        "text": "Stay calm for one lap and collect more information.",
+        "scores": {
+          "attack": -1,
+          "composure": 3,
+          "strategy": 3,
+          "competitiveDrive": 0,
+          "sociability": 0,
+          "adaptability": 1,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Follow the team’s data and recommendation.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Stay out and experiment with lines while conditions develop.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "Everyday",
+    "pairId": "P3",
+    "text": "A carefully planned trip is disrupted by a cancelled flight. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Book the first workable alternative myself.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 3,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Compare routes, costs, and timing before choosing.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 0,
+          "sociability": 0,
+          "adaptability": 1,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Ask the airline to recommend and arrange the solution.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 1,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Change the plan entirely and make the alternative an adventure.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": 0,
+          "sociability": 1,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Racing",
+    "pairId": "P4",
+    "text": "Your teammate has been consistently faster for several races. What is your response?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Raise my intensity. Beating them becomes the priority.",
+        "scores": {
+          "attack": 2,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 3,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 2,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Study their data to identify the exact difference.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 1,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Work openly with them and the engineers to learn faster.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 1,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Keep confidence in my method and develop it independently.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": -1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "Everyday",
+    "pairId": "P4",
+    "text": "A colleague performs better than you on a task you care about. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Use it as motivation and aim to outperform them next time.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 3,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 2,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Analyze their approach and incorporate what works.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Ask them to share their method so both of us improve.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 1,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Stay with my own style and judge myself over the long term.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 1,
+          "competitiveDrive": 1,
+          "sociability": -1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "Racing",
+    "pairId": "P5",
+    "text": "Your engineer gives a strategy instruction you strongly disagree with. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Challenge it directly and clearly over the radio.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Ask one focused question, then follow the call.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Follow it now and discuss the reasoning after the race.",
+        "scores": {
+          "attack": -1,
+          "composure": 3,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Make my own call based on what I can see and feel.",
+        "scores": {
+          "attack": 2,
+          "composure": 1,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": -1,
+          "adaptability": 1,
+          "independence": 3,
+          "experimentation": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "Work",
+    "pairId": "P5",
+    "text": "Your manager chooses an approach you believe will fail. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "State my disagreement directly and recommend another path.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 2,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 1
+        }
+      },
+      {
+        "id": "B",
+        "text": "Ask questions to understand the reasoning before responding.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Support the decision, document the concern, and revisit later.",
+        "scores": {
+          "attack": -1,
+          "composure": 3,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Adapt the execution quietly to reduce the risk.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 2,
+          "competitiveDrive": 1,
+          "sociability": -1,
+          "adaptability": 2,
+          "independence": 3,
+          "experimentation": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "Social",
+    "pairId": "P6",
+    "text": "You arrive alone at an event where you know almost nobody. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introduce myself widely and start conversations.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": 0,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": 0,
+          "experimentation": 1
+        }
+      },
+      {
+        "id": "B",
+        "text": "Find a small group with a shared interest.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 1,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 1,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Observe first and speak when there is something useful to add.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": -1,
+          "adaptability": 0,
+          "independence": 2,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Enjoy being on my own and leave when I have had enough.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 0,
+          "competitiveDrive": 0,
+          "sociability": -2,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "Racing",
+    "pairId": "P6",
+    "text": "After a strong race, you are immediately sent to a crowded media session. How do you handle it?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enjoy the attention and give energetic answers.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": 1,
+          "sociability": 3,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 1
+        }
+      },
+      {
+        "id": "B",
+        "text": "Be friendly but measured and keep the focus on the team.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Answer briefly and let the result speak for itself.",
+        "scores": {
+          "attack": 0,
+          "composure": 3,
+          "strategy": 0,
+          "competitiveDrive": 1,
+          "sociability": -1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Use humor or an unexpected comment to make it entertaining.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 0,
+          "competitiveDrive": 0,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": 1,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "type": "Everyday",
+    "pairId": "P7",
+    "text": "You are playing a meaningless game with friends. How do you approach it?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Try hard to win. A game is still a competition.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 3,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Enjoy it, but quietly optimize my strategy.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 3,
+          "competitiveDrive": 2,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Focus on keeping the group entertained.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": -1,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": 0,
+          "experimentation": 2
+        }
+      },
+      {
+        "id": "D",
+        "text": "Try strange tactics just to see whether they work.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 0,
+          "sociability": 1,
+          "adaptability": 2,
+          "independence": 1,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "Racing",
+    "pairId": "P7",
+    "text": "You are in a sprint race with limited points available. What is your mindset?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Every position matters. Attack from the start.",
+        "scores": {
+          "attack": 3,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 3,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Choose moves carefully and maximize the likely return.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Use it to test ideas that may help in the Grand Prix.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 1,
+          "experimentation": 3
+        }
+      },
+      {
+        "id": "D",
+        "text": "Keep it clean and avoid compromising the main race.",
+        "scores": {
+          "attack": -2,
+          "composure": 3,
+          "strategy": 2,
+          "competitiveDrive": -1,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "Work",
+    "pairId": "P8",
+    "text": "You are unexpectedly asked to lead a difficult project. What is your first move?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Set direction immediately and create momentum.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 1,
+          "adaptability": 1,
+          "independence": 3,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Map the problem, risks, roles, and decision points.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Bring the team together and build the plan collaboratively.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Prototype a solution quickly and learn from the result.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "Racing",
+    "pairId": "P8",
+    "text": "A safety car removes the advantage created by your strategy. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Attack the restart and rebuild the advantage immediately.",
+        "scores": {
+          "attack": 3,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": 3,
+          "sociability": 0,
+          "adaptability": 1,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Recalculate the race and identify the highest-probability route.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Coordinate closely with the team before committing.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 1,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Use the reset to attempt a strategy others may not expect.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 1,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "Pressure",
+    "pairId": "P9",
+    "text": "Someone publicly criticizes a decision you made. How do you respond?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Respond immediately and defend the decision.",
+        "scores": {
+          "attack": 1,
+          "composure": -1,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 2,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Stay calm, assess the criticism, and answer with evidence.",
+        "scores": {
+          "attack": 0,
+          "composure": 3,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Speak with them privately to understand the concern.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Ignore the noise unless it affects the outcome.",
+        "scores": {
+          "attack": 0,
+          "composure": 3,
+          "strategy": 0,
+          "competitiveDrive": 1,
+          "sociability": -1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "Racing",
+    "pairId": "P9",
+    "text": "Another driver blames you publicly for an incident. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Challenge their version directly in the media.",
+        "scores": {
+          "attack": 2,
+          "composure": -1,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": 2,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Review the footage and respond with facts.",
+        "scores": {
+          "attack": 0,
+          "composure": 3,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Speak to the driver privately before commenting.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 1,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 1,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Say little and focus on the next race.",
+        "scores": {
+          "attack": 0,
+          "composure": 3,
+          "strategy": 0,
+          "competitiveDrive": 1,
+          "sociability": -2,
+          "adaptability": 1,
+          "independence": 3,
+          "experimentation": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "type": "Everyday",
+    "pairId": "P10",
+    "text": "When learning a new skill, which approach feels most natural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Start immediately and learn through mistakes.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 2
+        }
+      },
+      {
+        "id": "B",
+        "text": "Study the fundamentals before practising.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 0,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": -1
+        }
+      },
+      {
+        "id": "C",
+        "text": "Learn with other people and exchange feedback.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 1,
+          "competitiveDrive": 0,
+          "sociability": 3,
+          "adaptability": 2,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Create my own method and experiment until it works.",
+        "scores": {
+          "attack": 0,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 0,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 3,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "type": "Racing",
+    "pairId": "P10",
+    "text": "You are driving a new car with unfamiliar handling. How do you adapt?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Push early to discover the limits quickly.",
+        "scores": {
+          "attack": 2,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 1
+        }
+      },
+      {
+        "id": "B",
+        "text": "Build speed methodically and compare each change.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Use engineer and teammate feedback to shorten the learning curve.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 2,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Try unconventional settings and driving styles.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 1,
+          "sociability": 0,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "Racing",
+    "pairId": "P11",
+    "text": "The team asks you to hold position behind your teammate. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Question it and keep racing unless the reason is compelling.",
+        "scores": {
+          "attack": 2,
+          "composure": 0,
+          "strategy": 1,
+          "competitiveDrive": 3,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Accept it if it supports the team’s championship objective.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Comply now, but expect a clear discussion afterwards.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Create pressure without openly breaking the instruction.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 2,
+          "competitiveDrive": 2,
+          "sociability": -1,
+          "adaptability": 1,
+          "independence": 2,
+          "experimentation": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "type": "Work",
+    "pairId": "P11",
+    "text": "You are asked to support a colleague’s proposal instead of your preferred option. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Continue advocating for mine if I believe it is stronger.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 2,
+          "competitiveDrive": 2,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Support their proposal if it best serves the overall objective.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Agree, but request clear criteria to review the outcome later.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 1,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Combine the strongest parts of both proposals.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 2,
+          "competitiveDrive": 0,
+          "sociability": 2,
+          "adaptability": 2,
+          "independence": 1,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "type": "Everyday",
+    "pairId": "P12",
+    "text": "You have a free weekend with no commitments. What sounds best?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plan something active and challenging.",
+        "scores": {
+          "attack": 2,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 2,
+          "sociability": 1,
+          "adaptability": 1,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Use the time for a personal project or improvement goal.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 2,
+          "competitiveDrive": 1,
+          "sociability": -1,
+          "adaptability": 0,
+          "independence": 3,
+          "experimentation": 1
+        }
+      },
+      {
+        "id": "C",
+        "text": "Meet friends and decide together what to do.",
+        "scores": {
+          "attack": 0,
+          "composure": 1,
+          "strategy": 0,
+          "competitiveDrive": 0,
+          "sociability": 3,
+          "adaptability": 1,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Choose something spontaneous that I have never tried.",
+        "scores": {
+          "attack": 1,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 0,
+          "sociability": 1,
+          "adaptability": 3,
+          "independence": 2,
+          "experimentation": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "type": "Racing",
+    "pairId": "P12",
+    "text": "You have secured a comfortable points finish, but the car ahead is within reach. What do you do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Attack. A higher position is worth the risk.",
+        "scores": {
+          "attack": 3,
+          "composure": 0,
+          "strategy": 0,
+          "competitiveDrive": 3,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "B",
+        "text": "Calculate the likely gain and downside before committing.",
+        "scores": {
+          "attack": 0,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 0,
+          "independence": 0,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "C",
+        "text": "Ask the team what the wider championship picture requires.",
+        "scores": {
+          "attack": -1,
+          "composure": 2,
+          "strategy": 3,
+          "competitiveDrive": 1,
+          "sociability": 2,
+          "adaptability": 0,
+          "independence": -1,
+          "experimentation": 0
+        }
+      },
+      {
+        "id": "D",
+        "text": "Try a creative move only if a normal opportunity does not appear.",
+        "scores": {
+          "attack": 1,
+          "composure": 1,
+          "strategy": 1,
+          "competitiveDrive": 2,
+          "sociability": 0,
+          "adaptability": 2,
+          "independence": 1,
+          "experimentation": 3
+        }
+      }
+    ]
+  }
+]

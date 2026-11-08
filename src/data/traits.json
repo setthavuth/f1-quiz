@@ -1,0 +1,74 @@
+[
+  {
+    "key": "attack",
+    "label": "Attack",
+    "low": "Patient and risk-conscious",
+    "high": "Bold and willing to commit",
+    "note": "Measures action preference, not driving ability.",
+    "min": -18,
+    "max": 40
+  },
+  {
+    "key": "composure",
+    "label": "Composure",
+    "low": "Emotionally reactive",
+    "high": "Steady under pressure",
+    "note": "Neither end implies greater motivation.",
+    "min": 2,
+    "max": 56
+  },
+  {
+    "key": "strategy",
+    "label": "Strategy",
+    "low": "Instinct-oriented",
+    "high": "Analytical and planned",
+    "note": "Separates rapid intuition from structured analysis.",
+    "min": 7,
+    "max": 68
+  },
+  {
+    "key": "competitiveDrive",
+    "label": "Competitive Drive",
+    "low": "Outcome-relaxed",
+    "high": "Strong need to win or improve",
+    "note": "High scores emphasize comparative achievement.",
+    "min": 3,
+    "max": 50
+  },
+  {
+    "key": "sociability",
+    "label": "Sociability",
+    "low": "Private and reserved",
+    "high": "Expressive and people-oriented",
+    "note": "Measures interaction preference, not confidence.",
+    "min": -9,
+    "max": 50
+  },
+  {
+    "key": "adaptability",
+    "label": "Adaptability",
+    "low": "Prefers stability",
+    "high": "Adjusts rapidly to change",
+    "note": "High scores favor fluid responses to disruption.",
+    "min": 2,
+    "max": 49
+  },
+  {
+    "key": "independence",
+    "label": "Independence",
+    "low": "Consensus-oriented",
+    "high": "Self-directed",
+    "note": "Low scores can indicate collaboration, not dependence.",
+    "min": -14,
+    "max": 56
+  },
+  {
+    "key": "experimentation",
+    "label": "Experimentation",
+    "low": "Proven-method oriented",
+    "high": "Unconventional and exploratory",
+    "note": "High scores favor novel approaches and testing.",
+    "min": -5,
+    "max": 55
+  }
+]

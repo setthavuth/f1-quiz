@@ -1,0 +1,446 @@
+{
+  "placeholder": true,
+  "note": "PLACEHOLDER profiles for development. Replace by adding a 'Driver Profile' sheet to the xlsx and running `npm run data`.",
+  "drivers": [
+    {
+      "id": "verstappen",
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "teamColor": "#3671C6",
+      "blurb": {
+        "en": "Relentless and decisive: commits to the move and rarely blinks.",
+        "th": "เด็ดขาดและไม่ลดละ ตัดสินใจแซงแล้วไม่มีลังเล"
+      },
+      "traits": {
+        "attack": 92,
+        "composure": 80,
+        "strategy": 70,
+        "competitiveDrive": 98,
+        "sociability": 40,
+        "adaptability": 88,
+        "independence": 90,
+        "experimentation": 65
+      }
+    },
+    {
+      "id": "hadjar",
+      "name": "Isack Hadjar",
+      "team": "Red Bull Racing",
+      "teamColor": "#3671C6",
+      "blurb": {
+        "en": "Fiery and fast-rising, with emotion that fuels the attack.",
+        "th": "ร้อนแรงและกำลังมาแรง ใช้อารมณ์เป็นเชื้อเพลิงในการบุก"
+      },
+      "traits": {
+        "attack": 75,
+        "composure": 50,
+        "strategy": 55,
+        "competitiveDrive": 85,
+        "sociability": 60,
+        "adaptability": 70,
+        "independence": 60,
+        "experimentation": 60
+      }
+    },
+    {
+      "id": "norris",
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "teamColor": "#FF8000",
+      "blurb": {
+        "en": "Self-aware, sociable and quick, a team player chasing perfection.",
+        "th": "เข้าใจตัวเอง เป็นกันเอง และเร็ว ทีมเพลเยอร์ที่ไล่ตามความสมบูรณ์แบบ"
+      },
+      "traits": {
+        "attack": 65,
+        "composure": 55,
+        "strategy": 70,
+        "competitiveDrive": 85,
+        "sociability": 80,
+        "adaptability": 65,
+        "independence": 45,
+        "experimentation": 55
+      }
+    },
+    {
+      "id": "piastri",
+      "name": "Oscar Piastri",
+      "team": "McLaren",
+      "teamColor": "#FF8000",
+      "blurb": {
+        "en": "Ice-cool and understated, letting results do the talking.",
+        "th": "เยือกเย็นและไม่โอ้อวด ปล่อยให้ผลงานพูดแทน"
+      },
+      "traits": {
+        "attack": 60,
+        "composure": 92,
+        "strategy": 78,
+        "competitiveDrive": 88,
+        "sociability": 30,
+        "adaptability": 70,
+        "independence": 70,
+        "experimentation": 40
+      }
+    },
+    {
+      "id": "leclerc",
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "teamColor": "#E8002D",
+      "blurb": {
+        "en": "All-in on a single lap, passionate and fearless.",
+        "th": "ทุ่มสุดตัวในรอบเดียว เต็มไปด้วยแพสชันและไม่กลัวใคร"
+      },
+      "traits": {
+        "attack": 85,
+        "composure": 60,
+        "strategy": 55,
+        "competitiveDrive": 90,
+        "sociability": 65,
+        "adaptability": 68,
+        "independence": 60,
+        "experimentation": 60
+      }
+    },
+    {
+      "id": "hamilton",
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "teamColor": "#E8002D",
+      "blurb": {
+        "en": "Experienced and expressive, always looking for a new edge.",
+        "th": "ประสบการณ์สูงและกล้าแสดงออก มองหาความได้เปรียบใหม่ ๆ อยู่เสมอ"
+      },
+      "traits": {
+        "attack": 70,
+        "composure": 80,
+        "strategy": 75,
+        "competitiveDrive": 90,
+        "sociability": 75,
+        "adaptability": 72,
+        "independence": 65,
+        "experimentation": 70
+      }
+    },
+    {
+      "id": "russell",
+      "name": "George Russell",
+      "team": "Mercedes",
+      "teamColor": "#27F4D2",
+      "blurb": {
+        "en": "Methodical and articulate, with a plan for every scenario.",
+        "th": "เป็นระบบและพูดเก่ง มีแผนรองรับทุกสถานการณ์"
+      },
+      "traits": {
+        "attack": 68,
+        "composure": 75,
+        "strategy": 85,
+        "competitiveDrive": 88,
+        "sociability": 60,
+        "adaptability": 65,
+        "independence": 62,
+        "experimentation": 50
+      }
+    },
+    {
+      "id": "antonelli",
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "teamColor": "#27F4D2",
+      "blurb": {
+        "en": "Young, instinctive and eager to learn on the fly.",
+        "th": "อายุน้อย ใช้สัญชาตญาณ และพร้อมเรียนรู้ระหว่างทาง"
+      },
+      "traits": {
+        "attack": 80,
+        "composure": 55,
+        "strategy": 50,
+        "competitiveDrive": 82,
+        "sociability": 55,
+        "adaptability": 75,
+        "independence": 50,
+        "experimentation": 65
+      }
+    },
+    {
+      "id": "alonso",
+      "name": "Fernando Alonso",
+      "team": "Aston Martin",
+      "teamColor": "#229971",
+      "blurb": {
+        "en": "Crafty veteran who finds opportunities nobody else sees.",
+        "th": "เก๋าเกมและเจ้าเล่ห์ มองเห็นโอกาสที่คนอื่นมองไม่เห็น"
+      },
+      "traits": {
+        "attack": 82,
+        "composure": 85,
+        "strategy": 90,
+        "competitiveDrive": 95,
+        "sociability": 55,
+        "adaptability": 85,
+        "independence": 85,
+        "experimentation": 80
+      }
+    },
+    {
+      "id": "stroll",
+      "name": "Lance Stroll",
+      "team": "Aston Martin",
+      "teamColor": "#229971",
+      "blurb": {
+        "en": "Low-key and private, at his best in chaotic conditions.",
+        "th": "เงียบ ๆ เป็นส่วนตัว และทำผลงานได้ดีที่สุดเมื่อสถานการณ์วุ่นวาย"
+      },
+      "traits": {
+        "attack": 55,
+        "composure": 60,
+        "strategy": 55,
+        "competitiveDrive": 60,
+        "sociability": 40,
+        "adaptability": 55,
+        "independence": 65,
+        "experimentation": 45
+      }
+    },
+    {
+      "id": "gasly",
+      "name": "Pierre Gasly",
+      "team": "Alpine",
+      "teamColor": "#0093CC",
+      "blurb": {
+        "en": "Resilient and grounded, a steady points-scorer.",
+        "th": "ล้มแล้วลุกเร็วและติดดิน เก็บคะแนนได้อย่างสม่ำเสมอ"
+      },
+      "traits": {
+        "attack": 62,
+        "composure": 70,
+        "strategy": 65,
+        "competitiveDrive": 75,
+        "sociability": 70,
+        "adaptability": 65,
+        "independence": 55,
+        "experimentation": 50
+      }
+    },
+    {
+      "id": "colapinto",
+      "name": "Franco Colapinto",
+      "team": "Alpine",
+      "teamColor": "#0093CC",
+      "blurb": {
+        "en": "Charismatic crowd-favourite who drives on instinct.",
+        "th": "ขวัญใจแฟน ๆ ผู้มีเสน่ห์ ขับด้วยสัญชาตญาณ"
+      },
+      "traits": {
+        "attack": 78,
+        "composure": 55,
+        "strategy": 45,
+        "competitiveDrive": 80,
+        "sociability": 85,
+        "adaptability": 72,
+        "independence": 55,
+        "experimentation": 65
+      }
+    },
+    {
+      "id": "albon",
+      "name": "Alexander Albon",
+      "team": "Williams",
+      "teamColor": "#64C4FF",
+      "blurb": {
+        "en": "Easy-going and collaborative, quietly maximising every chance.",
+        "th": "สบาย ๆ ชอบทำงานร่วมกัน และรีดทุกโอกาสอย่างเงียบ ๆ"
+      },
+      "traits": {
+        "attack": 55,
+        "composure": 78,
+        "strategy": 72,
+        "competitiveDrive": 70,
+        "sociability": 75,
+        "adaptability": 70,
+        "independence": 40,
+        "experimentation": 50
+      }
+    },
+    {
+      "id": "sainz",
+      "name": "Carlos Sainz",
+      "team": "Williams",
+      "teamColor": "#64C4FF",
+      "blurb": {
+        "en": "The 'Smooth Operator': strategic, analytical and thorough.",
+        "th": "'Smooth Operator' ช่างวางแผน คิดวิเคราะห์ และละเอียดรอบคอบ"
+      },
+      "traits": {
+        "attack": 60,
+        "composure": 75,
+        "strategy": 92,
+        "competitiveDrive": 82,
+        "sociability": 65,
+        "adaptability": 70,
+        "independence": 55,
+        "experimentation": 55
+      }
+    },
+    {
+      "id": "lawson",
+      "name": "Liam Lawson",
+      "team": "Racing Bulls",
+      "teamColor": "#6692FF",
+      "blurb": {
+        "en": "Uncompromising racer who never backs out of a fight.",
+        "th": "นักแข่งที่ไม่ยอมใคร และไม่เคยถอยจากการต่อสู้"
+      },
+      "traits": {
+        "attack": 85,
+        "composure": 50,
+        "strategy": 50,
+        "competitiveDrive": 88,
+        "sociability": 45,
+        "adaptability": 65,
+        "independence": 75,
+        "experimentation": 55
+      }
+    },
+    {
+      "id": "lindblad",
+      "name": "Arvid Lindblad",
+      "team": "Racing Bulls",
+      "teamColor": "#6692FF",
+      "blurb": {
+        "en": "Rookie with raw pace and nothing to lose.",
+        "th": "รุกกี้ที่เร็วโดยธรรมชาติ และไม่มีอะไรต้องเสีย"
+      },
+      "traits": {
+        "attack": 78,
+        "composure": 55,
+        "strategy": 48,
+        "competitiveDrive": 82,
+        "sociability": 55,
+        "adaptability": 75,
+        "independence": 55,
+        "experimentation": 65
+      }
+    },
+    {
+      "id": "ocon",
+      "name": "Esteban Ocon",
+      "team": "Haas",
+      "teamColor": "#B6BABD",
+      "blurb": {
+        "en": "Determined and self-reliant, giving ground to no one.",
+        "th": "มุ่งมั่นและพึ่งพาตัวเอง ไม่ยอมเสียพื้นที่ให้ใคร"
+      },
+      "traits": {
+        "attack": 70,
+        "composure": 65,
+        "strategy": 65,
+        "competitiveDrive": 82,
+        "sociability": 40,
+        "adaptability": 60,
+        "independence": 85,
+        "experimentation": 50
+      }
+    },
+    {
+      "id": "bearman",
+      "name": "Oliver Bearman",
+      "team": "Haas",
+      "teamColor": "#B6BABD",
+      "blurb": {
+        "en": "Adaptable and unflappable, ready when the call comes.",
+        "th": "ปรับตัวเก่งและไม่หวั่นไหว พร้อมเสมอเมื่อถูกเรียกใช้"
+      },
+      "traits": {
+        "attack": 75,
+        "composure": 65,
+        "strategy": 55,
+        "competitiveDrive": 80,
+        "sociability": 60,
+        "adaptability": 78,
+        "independence": 50,
+        "experimentation": 60
+      }
+    },
+    {
+      "id": "hulkenberg",
+      "name": "Nico Hülkenberg",
+      "team": "Audi",
+      "teamColor": "#BB0A30",
+      "blurb": {
+        "en": "Seasoned, dry-humoured and dependable under pressure.",
+        "th": "มากประสบการณ์ มีอารมณ์ขันแบบนิ่ง ๆ และพึ่งพาได้ภายใต้แรงกดดัน"
+      },
+      "traits": {
+        "attack": 55,
+        "composure": 85,
+        "strategy": 75,
+        "competitiveDrive": 70,
+        "sociability": 65,
+        "adaptability": 65,
+        "independence": 60,
+        "experimentation": 40
+      }
+    },
+    {
+      "id": "bortoleto",
+      "name": "Gabriel Bortoleto",
+      "team": "Audi",
+      "teamColor": "#BB0A30",
+      "blurb": {
+        "en": "Calm and mature beyond his years, building step by step.",
+        "th": "ใจเย็นและเป็นผู้ใหญ่เกินวัย ค่อย ๆ สร้างผลงานทีละก้าว"
+      },
+      "traits": {
+        "attack": 60,
+        "composure": 78,
+        "strategy": 70,
+        "competitiveDrive": 78,
+        "sociability": 55,
+        "adaptability": 72,
+        "independence": 50,
+        "experimentation": 50
+      }
+    },
+    {
+      "id": "perez",
+      "name": "Sergio Pérez",
+      "team": "Cadillac",
+      "teamColor": "#A6A6A6",
+      "blurb": {
+        "en": "Tyre whisperer and strategic thinker who plays the long game.",
+        "th": "เจ้าแห่งการถนอมยาง นักวางกลยุทธ์ที่เล่นเกมยาว"
+      },
+      "traits": {
+        "attack": 60,
+        "composure": 65,
+        "strategy": 80,
+        "competitiveDrive": 72,
+        "sociability": 70,
+        "adaptability": 62,
+        "independence": 50,
+        "experimentation": 55
+      }
+    },
+    {
+      "id": "bottas",
+      "name": "Valtteri Bottas",
+      "team": "Cadillac",
+      "teamColor": "#A6A6A6",
+      "blurb": {
+        "en": "Laid-back and consistent, the ultimate team player.",
+        "th": "สบาย ๆ สม่ำเสมอ ทีมเพลเยอร์ตัวจริง"
+      },
+      "traits": {
+        "attack": 45,
+        "composure": 85,
+        "strategy": 72,
+        "competitiveDrive": 65,
+        "sociability": 72,
+        "adaptability": 60,
+        "independence": 45,
+        "experimentation": 45
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "f1-personality-test",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "data": "python scripts/build_data.py"
+  },
+  "devDependencies": {
+    "typescript": "5.8.3",
+    "vite": "6.4.5",
+    "vitest": "4.1.12"
+  },
+  "overrides": {
+    "rollup": "npm:@rollup/wasm-node@4.64.11"
+  }
+}

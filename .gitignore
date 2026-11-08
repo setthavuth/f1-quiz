@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+~$*.xlsx
+__pycache__/
